@@ -6,9 +6,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/TanviiBeri/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/TanviiBeri/leetcode/tree/master/0119-pascals-triangle-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/TanviiBeri/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/TanviiBeri/leetcode/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
