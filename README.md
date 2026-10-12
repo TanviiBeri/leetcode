@@ -24,4 +24,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/TanviiBeri/leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/TanviiBeri/leetcode/tree/master/0052-n-queens-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0886-possible-bipartition](https://github.com/TanviiBeri/leetcode/tree/master/0886-possible-bipartition) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0886-possible-bipartition](https://github.com/TanviiBeri/leetcode/tree/master/0886-possible-bipartition) |
+## Union-Find
+|  |
+| ------- |
+| [0886-possible-bipartition](https://github.com/TanviiBeri/leetcode/tree/master/0886-possible-bipartition) |
+## Graph Theory
+|  |
+| ------- |
+| [0886-possible-bipartition](https://github.com/TanviiBeri/leetcode/tree/master/0886-possible-bipartition) |
+## Graph Coloring
+|  |
+| ------- |
+| [0886-possible-bipartition](https://github.com/TanviiBeri/leetcode/tree/master/0886-possible-bipartition) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0886-possible-bipartition](https://github.com/TanviiBeri/leetcode/tree/master/0886-possible-bipartition) |
 <!---LeetCode Topics End-->
